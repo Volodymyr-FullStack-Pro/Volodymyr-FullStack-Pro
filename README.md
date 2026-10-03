@@ -1,4 +1,5 @@
 @@ -55,20 +55,6 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
+<img width="1080" height="592" alt="anime-photo" src="https://github.com/user-attachments/assets/48e5cc2e-8c34-4872-ad20-6fe6d3fcfed5" />
 
 <p align="left"> <a href="https://www.linkedin.com/in/👋-volodymyr-code-pro-059377298" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
 
